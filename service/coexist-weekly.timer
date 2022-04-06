@@ -1,0 +1,10 @@
+[Unit]
+Description=weekly coexist backup script
+
+[Timer]
+OnCalendar=weekly
+AccuracySec=1us
+Persistent=true
+
+[Install]
+WantedBy=default.target

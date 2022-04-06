@@ -1,0 +1,5 @@
++ AppCleaner.app/***
++ Battle.net.app/***
+
++ Sublime\ Text\ 2.app/***
+- *

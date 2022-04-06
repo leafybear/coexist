@@ -1,0 +1,28 @@
++ .bash*
++ .bash/***
++ .ssh/***
++ .vimrc
++ .vim/***
++ .bins/***
++ .git*
++ Library/
++ Library/Application Support/
++ Library/Application\ Support/A\ Better\ Finder\ Rename\ 9/***
++ Library/Application\ Support/Sublime\ Text\ 3/***
++ Library/Developer/
++ Library/Developer/Xcode/
++ Library/Developer/Xcode/UserData/
++ Library/Developer/Xcode/UserData/FontAndColorThemes/***
++ Library/FontCollections/***
++ Library/Fonts/***
++ Library/Preferences/
++ Library/Preferences/com.apple.scriptmenu.plist
++ Library/Preferences/com.apple.Terminal.plist
++ Library/Preferences/com.sublimetext.3.plist
++ Library/Preferences/net.kovidgoyal.calibre.plist
++ Library/Preferences/com.apple.ScriptEditor2.plist
++ Library/Preferences/ch.sudo.cyberduck.plist
++ Library/Preferences/calibre/***
++ Library/Sounds/***
++ Library/StickiesDatabase
+- *

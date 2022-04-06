@@ -1,0 +1,23 @@
++ .Xdefaults
++ .bash*
++ .bash/***
++ .bins/***
++ .htoprc
++ .git*
++ .ssh/***
++ .vimrc
++ .vim/***
++ Library/
++ Library/Application\ Support/***
+- Library/Application\ Support/MobileSync/
++ Library/Developer/***
++ Library/FontCollections/***
++ Library/Fonts/***
++ Library/Keychains/***
++ Library/Preferences/***
++ Library/Scripts/***
++ Library/Services/***
++ Library/Workflows/***
++ Library/Sounds/***
++ Library/StickiesDatabase
+- *

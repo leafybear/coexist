@@ -1,0 +1,10 @@
+[Unit]
+Description=weekly Coexist backup using Rsync.
+
+[Service]
+Type=simple
+ExecStart=/home/amy/grimoire/proj.coexist/service/weekly.sh
+StandardOutput=journal
+
+[Install]
+WantedBy=default.target

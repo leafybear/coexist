@@ -1,0 +1,7 @@
++ Comics/***
++ Books/***
++ Pictures/***
++ iTunes/
++ iTunes/iTunes Media/
++ iTunes/iTunes Media/Audiobooks/***
+- *

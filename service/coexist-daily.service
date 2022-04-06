@@ -1,0 +1,10 @@
+[Unit]
+Description=daily Coexist backup using Rsync.
+
+[Service]
+Type=simple
+ExecStart=/home/amy/grimoire/proj.coexist/service/daily.sh
+StandardOutput=journal
+
+[Install]
+WantedBy=default.target
